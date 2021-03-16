@@ -1,0 +1,11 @@
+var _parentElement = new WeakMap();
+
+class RecipeView {
+  constructor() {
+    _parentElement.set(this, {
+      writable: true,
+      value: document.querySelector('.recipe')
+    });
+  }
+
+} // export default new RecipeView1();
