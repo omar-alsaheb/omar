@@ -19,9 +19,9 @@ class RecipeView{
         return `
     <figure class="recipe__fig">
     <img src="${this.#data.img}" alt="Tomato" class="recipe__img" />
-    <h2 class="recipe__title">
+    <h1 class="recipe__title">
       <span>${this.#data.title}</span>
-    </h2>
+    </h1>
   </figure>
 
   <div class="recipe__details">
