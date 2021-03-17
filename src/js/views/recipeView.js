@@ -1,22 +1,28 @@
 import icons from 'url:../../img/icons.svg';
-class RecipeView{
+class RecipeView {
 
-    #parentElement = document.querySelector('.recipe');
-    #data;
-    render(data){
-        this.#data = data;
-        const markup = this.#generateMarkup();
-        this.#clear();
-        this.#parentElement.insertAdjacentHTML('afterbegin', markup);
+  #parentElement = document.querySelector('.recipe');
+  #data;
+  render(data) {
+    this.#data = data;
+    const markup = this.#generateMarkup();
+    this.#clear();
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
 
-    }
+  }
 
-    #clear(){
-        this.#parentElement.innerHTML='';
+  #clear() {
+    this.#parentElement.innerHTML = '';
 
-    }
-    #generateMarkup(){
-        return `
+  }
+
+  addHandlerRender(handler){
+
+    ['hashchange', 'load'].forEach(ev => addEventListener(ev, handler));
+
+  }
+  #generateMarkup() {
+    return `
     <figure class="recipe__fig">
     <img src="${this.#data.img}" alt="Tomato" class="recipe__img" />
     <h1 class="recipe__title">
@@ -109,8 +115,9 @@ class RecipeView{
     </a>
   </div>
     `;
-  
-    }
+
+  }
 }
 
 export default new RecipeView();
+
