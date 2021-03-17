@@ -39,3 +39,6 @@ const showRecpie = async function () {
 // window.addEventListener(eventListner, showRecpie)
 
 // window.addEventListener('load',showRecpie)
+
+
+console.log("asdasd")
