@@ -1,0 +1,59 @@
+"use strict";
+
+var _icons = _interopRequireDefault(require("url:../img/icons.svg"));
+
+var model = _interopRequireWildcard(require("./model.js"));
+
+var _recipeView = _interopRequireDefault(require("./views/recipeView.js"));
+
+var _searchView = _interopRequireDefault(require("./views/searchView.js"));
+
+function _getRequireWildcardCache() { if (typeof WeakMap !== "function") return null; var cache = new WeakMap(); _getRequireWildcardCache = function () { return cache; }; return cache; }
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } if (obj === null || typeof obj !== "object" && typeof obj !== "function") { return { default: obj }; } var cache = _getRequireWildcardCache(); if (cache && cache.has(obj)) { return cache.get(obj); } var newObj = {}; var hasPropertyDescriptor = Object.defineProperty && Object.getOwnPropertyDescriptor; for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) { var desc = hasPropertyDescriptor ? Object.getOwnPropertyDescriptor(obj, key) : null; if (desc && (desc.get || desc.set)) { Object.defineProperty(newObj, key, desc); } else { newObj[key] = obj[key]; } } } newObj.default = obj; if (cache) { cache.set(obj, newObj); } return newObj; }
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+const recipeContainer = document.querySelector('.recipe'); // https://forkify-api.herokuapp.com/v2
+///////////////////////////////////////
+
+const showRecpie = async function () {
+  try {
+    let id = window.location.hash.slice(1);
+    if (!id) return;
+    await model.loadRecipe(id); // const {recipe} = model.state;
+
+    _recipeView.default.render(model.state.recipe);
+  } catch (err) {
+    console.log(err);
+
+    _recipeView.default.renderError();
+  }
+};
+
+const controlerSearchResults = async function () {
+  try {
+    const query = _searchView.default.getQuery();
+
+    if (!query) return;
+    await model.loadSearchResults(query);
+    console.log(model.state.search.results);
+  } catch (err) {
+    console.log(err);
+
+    _recipeView.default.renderError();
+  }
+};
+
+const init = function () {
+  _recipeView.default.addHandlerRender(showRecpie);
+
+  _searchView.default.addHandlerSearch(controlerSearchResults);
+};
+
+init();
+controlerSearchResults(); // ['hashchange','load'].forEach(function(ev){
+// addEventListener(ev,showRecpie)
+// })
+// window.addEventListener(eventListner, showRecpie)
+// window.addEventListener('load',showRecpie)

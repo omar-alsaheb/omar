@@ -1,4 +1,4 @@
-17072
+17073
 43C:\Users\Omar\Desktop\omar\src\js\config.js132604468523797100 0
 59C:\Users\Omar\Desktop\omar\node_modules\escape-html\LICENSE132604421957275724 0
 94C:\Users\Omar\Desktop\omar\node_modules\csso\node_modules\css-tree\lib\lexer\prepare-tokens.js132604421947219599 0
@@ -24,7 +24,7 @@
 49C:\Users\Omar\Desktop\omar\node_modules\pn\net.js132604421980804780 0
 73C:\Users\Omar\Desktop\omar\node_modules\es-abstract\2015\IteratorClose.js132604421951108624 0
 44C:\Users\Omar\Desktop\omar\package-lock.json132604421999169552 0
-31C:\Users\Omar\Desktop\omar\dist132605379191954174 1
+31C:\Users\Omar\Desktop\omar\dist132605458102072602 1
 69C:\Users\Omar\Desktop\omar\node_modules\@parcel\utils\lib\throttle.js132604421923017933 0
 62C:\Users\Omar\Desktop\omar\node_modules\postcss-modules-values132604421983477227 1
 55C:\Users\Omar\Desktop\omar\node_modules\w3c-hr-time\lib132604421998292034 1
@@ -186,7 +186,7 @@
 36C:\Users\Omar\Desktop\omar\README.md132604421907092903 0
 108C:\Users\Omar\Desktop\omar\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\LICENSE-MIT132604421981682313 0
 62C:\Users\Omar\Desktop\omar\node_modules\lodash.clone\README.md132604421970196581 0
-42C:\Users\Omar\Desktop\omar\src\js\model.js132605365901439078 0
+42C:\Users\Omar\Desktop\omar\src\js\model.js132605456365887022 0
 101C:\Users\Omar\Desktop\omar\node_modules\@parcel\watcher\node_modules\node-addon-api\doc\threadsafe.md132604421923865540 0
 76C:\Users\Omar\Desktop\omar\node_modules\core-js\stable\array\virtual\join.js132604421942343841 0
 62C:\Users\Omar\Desktop\omar\node_modules\split-string\README.md132604421993426655 0
@@ -394,7 +394,7 @@
 48C:\Users\Omar\Desktop\omar\src\sass\_upload.scss132604421999280297 0
 65C:\Users\Omar\Desktop\omar\node_modules\hash.js\lib\hash\sha\1.js132604421960532697 0
 65C:\Users\Omar\Desktop\omar\node_modules\delayed-stream\.npmignore132604421948994589 0
-47C:\Users\Omar\Desktop\omar\src\js\controller.js132605373073156232 0
+47C:\Users\Omar\Desktop\omar\src\js\controller.js132605453586094453 0
 75C:\Users\Omar\Desktop\omar\node_modules\unset-value\node_modules\has-values132604421997280518 1
 65C:\Users\Omar\Desktop\omar\node_modules\lodash\_basePropertyOf.js132604421970897677 0
 58C:\Users\Omar\Desktop\omar\node_modules\xtend\immutable.js132604421999113069 0
@@ -407,7 +407,7 @@
 49C:\Users\Omar\Desktop\omar\node_modules\is-number132604421965817092 1
 53C:\Users\Omar\Desktop\omar\node_modules\ajv\README.md132604421925221711 0
 58C:\Users\Omar\Desktop\omar\node_modules\events\.travis.yml132604421957606569 0
-43C:\Users\Omar\Desktop\omar\src\js\helper.js132604468790010250 0
+43C:\Users\Omar\Desktop\omar\src\js\helper.js132605379312333132 0
 85C:\Users\Omar\Desktop\omar\node_modules\es-abstract\2017\CreateDataPropertyOrThrow.js132604421952424902 0
 83C:\Users\Omar\Desktop\omar\node_modules\@babel\types\lib\validators\isReferenced.js132604421914681481 0
 53C:\Users\Omar\Desktop\omar\node_modules\has\README.md132604421960426608 0
@@ -434,7 +434,7 @@
 55C:\Users\Omar\Desktop\omar\node_modules\caller-callsite132604421928511195 1
 61C:\Users\Omar\Desktop\omar\node_modules\elliptic\lib\elliptic132604421950420564 1
 81C:\Users\Omar\Desktop\omar\node_modules\highlight.js\styles\atelier-cave-dark.css132604421961830189 0
-39C:\Users\Omar\Desktop\omar\src\js\views132604441268134019 1
+39C:\Users\Omar\Desktop\omar\src\js\views132605442849336386 1
 113C:\Users\Omar\Desktop\omar\node_modules\regenerate-unicode-properties\Script_Extensions\Nyiakeng_Puachue_Hmong.js132604421989330698 0
 67C:\Users\Omar\Desktop\omar\node_modules\js-yaml\dist\js-yaml.min.js132604421966654723 0
 86C:\Users\Omar\Desktop\omar\node_modules\resolve\test\resolver\symlinked\_\node_modules132604421991005962 1
@@ -451,6 +451,22 @@
 66C:\Users\Omar\Desktop\omar\node_modules\fast-json-stable-stringify132604421958794224 1
 75C:\Users\Omar\Desktop\omar\node_modules\postcss-modules-extract-imports\lib132604421982365769 1
 74C:\Users\Omar\Desktop\omar\node_modules\es-abstract\2017\IterableToList.js132604421952694142 0
+62C:\Users\Omar\Desktop\omar\node_modules\postcss-reduce-initial132604421984324830 1
+56C:\Users\Omar\Desktop\omar\node_modules\ws\lib\sender.js132604421998898861 0
+63C:\Users\Omar\Desktop\omar\node_modules\is-typedarray\README.md132604421966212451 0
+61C:\Users\Omar\Desktop\omar\node_modules\tunnel-agent\index.js132604421996242847 0
+74C:\Users\Omar\Desktop\omar\node_modules\core-js\stable\object\to-string.js132604421942971594 0
+98C:\Users\Omar\Desktop\omar\node_modules\css-modules-loader-core\node_modules\postcss\lib\result.js132604421944696726 0
+48C:\Users\Omar\Desktop\omar\node_modules\entities132604421950689801 1
+72C:\Users\Omar\Desktop\omar\node_modules\resolve\test\module_dir\zmodules132604421990660119 1
+61C:\Users\Omar\Desktop\omar\node_modules\on-finished\README.md132604421979199305 0
+48C:\Users\Omar\Desktop\omar\node_modules\anymatch132604421925940596 1
+105C:\Users\Omar\Desktop\omar\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\processor.js132604421994492332 0
+64C:\Users\Omar\Desktop\omar\node_modules\util.promisify\README.md132604421997825008 0
+50C:\Users\Omar\Desktop\omar\node_modules\core-js\es132604421936762498 1
+73C:\Users\Omar\Desktop\omar\node_modules\highlight.js\lib\languages\lsl.js132604421961280062 0
+53C:\Users\Omar\Desktop\omar\src\js\views\searchView.js132605458100289345 0
+89C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-media-scripting.js132604421929400683 0
 95C:\Users\Omar\Desktop\omar\node_modules\@parcel\node-resolver-core\node_modules\braces\index.js132604421918041989 0
 72C:\Users\Omar\Desktop\omar\node_modules\svgo\plugins\sortDefsChildren.js132604421995100375 0
 87C:\Users\Omar\Desktop\omar\node_modules\regenerate-unicode-properties\Script\Tagalog.js132604421988772274 0
@@ -510,16 +526,6 @@
 60C:\Users\Omar\Desktop\omar\node_modules\escape-html\index.js132604421957286159 0
 119C:\Users\Omar\Desktop\omar\node_modules\http-proxy-middleware\node_modules\braces\node_modules\extend-shallow\README.md132604421963302248 0
 51C:\Users\Omar\Desktop\omar\node_modules\class-utils132604421933312239 1
-62C:\Users\Omar\Desktop\omar\node_modules\postcss-reduce-initial132604421984324830 1
-56C:\Users\Omar\Desktop\omar\node_modules\ws\lib\sender.js132604421998898861 0
-63C:\Users\Omar\Desktop\omar\node_modules\is-typedarray\README.md132604421966212451 0
-61C:\Users\Omar\Desktop\omar\node_modules\tunnel-agent\index.js132604421996242847 0
-74C:\Users\Omar\Desktop\omar\node_modules\core-js\stable\object\to-string.js132604421942971594 0
-98C:\Users\Omar\Desktop\omar\node_modules\css-modules-loader-core\node_modules\postcss\lib\result.js132604421944696726 0
-48C:\Users\Omar\Desktop\omar\node_modules\entities132604421950689801 1
-72C:\Users\Omar\Desktop\omar\node_modules\resolve\test\module_dir\zmodules132604421990660119 1
-61C:\Users\Omar\Desktop\omar\node_modules\on-finished\README.md132604421979199305 0
-48C:\Users\Omar\Desktop\omar\node_modules\anymatch132604421925940596 1
 52C:\Users\Omar\Desktop\omar\node_modules\mdn-data\css132604421976068150 1
 86C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-mediaqueries.js132604421929406001 0
 72C:\Users\Omar\Desktop\omar\node_modules\es-abstract\2020\IteratorNext.js132604421955466447 0
@@ -3207,10 +3213,6 @@
 65C:\Users\Omar\Desktop\omar\node_modules\follow-redirects\index.js132604421959228791 0
 66C:\Users\Omar\Desktop\omar\node_modules\util.promisify\polyfill.js132604421997850302 0
 76C:\Users\Omar\Desktop\omar\node_modules\core-js\es\array\virtual\index-of.js132604421935351178 0
-105C:\Users\Omar\Desktop\omar\node_modules\stylehacks\node_modules\postcss-selector-parser\dist\processor.js132604421994492332 0
-82C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-optional-chaining\lib132604421911350879 1
-64C:\Users\Omar\Desktop\omar\node_modules\util.promisify\README.md132604421997825008 0
-50C:\Users\Omar\Desktop\omar\node_modules\core-js\es132604421936762498 1
 55C:\Users\Omar\Desktop\omar\node_modules\lodash\index.js132604421974452712 0
 74C:\Users\Omar\Desktop\omar\node_modules\util.promisify\.github\FUNDING.yml132604421997795193 0
 69C:\Users\Omar\Desktop\omar\node_modules\node-addon-api\src\node_api.h132604421977424316 0
@@ -3481,10 +3483,10 @@
 107C:\Users\Omar\Desktop\omar\node_modules\css-modules-loader-core\node_modules\source-map\lib\mapping-list.js132604421944889708 0
 61C:\Users\Omar\Desktop\omar\node_modules\@types\q\package.json132604421924780016 0
 96C:\Users\Omar\Desktop\omar\node_modules\css-modules-loader-core\node_modules\postcss\lib\rule.js132604421944716667 0
-88C:\Users\Omar\Desktop\omar\node_modules\unicode-property-aliases-ecmascript\package.json132604421997020347 0
 121C:\Users\Omar\Desktop\omar\node_modules\@parcel\fs-write-stream-atomic\node_modules\readable-stream\lib\_stream_duplex.js132604421917543390 0
 84C:\Users\Omar\Desktop\omar\node_modules\object.getownpropertydescriptors\polyfill.js132604421979029786 0
 80C:\Users\Omar\Desktop\omar\node_modules\core-js\features\typed-array\subarray.js132604421939077205 0
+88C:\Users\Omar\Desktop\omar\node_modules\unicode-property-aliases-ecmascript\package.json132604421997020347 0
 111C:\Users\Omar\Desktop\omar\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\combinator.js132604421996733736 0
 102C:\Users\Omar\Desktop\omar\node_modules\@parcel\reporter-bundle-analyzer\src\BundleAnalyzerReporter.js132604421919295877 0
 63C:\Users\Omar\Desktop\omar\node_modules\@parcel\core\lib\public132604421916695784 1
@@ -11032,7 +11034,6 @@
 74C:\Users\Omar\Desktop\omar\node_modules\highlight.js\lib\languages\less.js132604421961240008 0
 84C:\Users\Omar\Desktop\omar\node_modules\highlight.js\lib\languages\livecodeserver.js132604421961260448 0
 74C:\Users\Omar\Desktop\omar\node_modules\highlight.js\lib\languages\llvm.js132604421961272097 0
-73C:\Users\Omar\Desktop\omar\node_modules\highlight.js\lib\languages\lsl.js132604421961280062 0
 78C:\Users\Omar\Desktop\omar\node_modules\highlight.js\lib\languages\markdown.js132604421961299849 0
 68C:\Users\Omar\Desktop\omar\node_modules\entities\lib\encode.d.ts.map132604421950629968 0
 91C:\Users\Omar\Desktop\omar\node_modules\extglob\node_modules\is-accessor-descriptor\LICENSE132604421958253604 0
@@ -11397,7 +11398,7 @@
 85C:\Users\Omar\Desktop\omar\node_modules\babel-plugin-dynamic-import-node\lib\utils.js132604421927080415 0
 66C:\Users\Omar\Desktop\omar\node_modules\command-exists\.travis.yml132604421934111442 0
 62C:\Users\Omar\Desktop\omar\node_modules\extglob\lib\parsers.js132604421958178693 0
-49C:\Users\Omar\Desktop\omar\dist\logo.6b3c6ef5.png132605379191724596 0
+49C:\Users\Omar\Desktop\omar\dist\logo.6b3c6ef5.png132605458102002786 0
 105C:\Users\Omar\Desktop\omar\node_modules\@parcel\transformer-css\node_modules\postcss-value-parser\LICENSE132604421921098250 0
 63C:\Users\Omar\Desktop\omar\node_modules\extend-shallow\index.js132604421958029082 0
 93C:\Users\Omar\Desktop\omar\node_modules\@parcel\runtime-js\src\loaders\browser\html-loader.js132604421920040633 0
@@ -14899,7 +14900,6 @@
 88C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-letter-spacing.js132604421929351308 0
 83C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\dispatchevent.js132604421929808761 0
 91C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-media-interaction.js132604421929389938 0
-89C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-media-scripting.js132604421929400683 0
 86C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-not-sel-list.js132604421929428561 0
 86C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-nth-child-of.js132604421929434052 0
 89C:\Users\Omar\Desktop\omar\node_modules\caniuse-lite\data\features\css-optional-pseudo.js132604421929447056 0
@@ -16067,7 +16067,7 @@
 74C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-htmlnano\LICENSE132604421918391002 0
 70C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-data-url\src132604421918381034 1
 69C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-cssnano\lib132604421918341144 1
-53C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css.map132605379191755192 0
+53C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css.map132605458102052651 0
 89C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-cssnano\lib\CSSNanoOptimizer.js132604421918351118 0
 74C:\Users\Omar\Desktop\omar\node_modules\@parcel\node-resolver-core\LICENSE132604421917992800 0
 79C:\Users\Omar\Desktop\omar\node_modules\@parcel\node-resolver-core\package.json132604421918311226 0
@@ -16321,7 +16321,7 @@
 80C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.stat\out\adapters\fs.spec.js132604421915429371 0
 72C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\package.json132604421915249874 0
 83C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-transform-arrow-functions\lib132604421911430653 1
-42C:\Users\Omar\Desktop\omar\dist\index.html132605379191724596 0
+42C:\Users\Omar\Desktop\omar\dist\index.html132605407001798808 0
 69C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\README.md132604421914960694 0
 73C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\tsconfig.json132604421915361650 0
 80C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\tsconfig.tsbuildinfo132604421915379512 0
@@ -16664,6 +16664,7 @@
 75C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-typescript\lib132604421911400740 1
 79C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-typescript\LICENSE132604421911390765 0
 80C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-top-level-await\lib132604421911370826 1
+82C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-optional-chaining\lib132604421911350879 1
 91C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-optional-chaining\package.json132604421911350879 0
 88C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-optional-chaining\README.md132604421911340907 0
 91C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-syntax-optional-chaining\lib\index.js132604421911350879 0
@@ -17056,18 +17057,18 @@
 54C:\Users\Omar\Desktop\omar\node_modules\.bin\uncss.ps1132604421908090089 0
 54C:\Users\Omar\Desktop\omar\dist\controller.1174478e.js132604421907102879 0
 54C:\Users\Omar\Desktop\omar\dist\controller.2e0f76c7.js132604421907112847 0
-54C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js132605379191914273 0
-58C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js.map132605379191944194 0
+54C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js132605458102002786 0
+58C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js.map132605458102052651 0
 58C:\Users\Omar\Desktop\omar\dist\controller.a51b9390.js.map132604421907132790 0
 52C:\Users\Omar\Desktop\omar\dist\favicon.639e26ed.png132604421907132790 0
-52C:\Users\Omar\Desktop\omar\dist\favicon.7f4056aa.png132605379191704652 0
+52C:\Users\Omar\Desktop\omar\dist\favicon.7f4056aa.png132605458101992853 0
 50C:\Users\Omar\Desktop\omar\dist\icons.295ab907.svg132604421907152735 0
-50C:\Users\Omar\Desktop\omar\dist\icons.42ed9afd.svg132605379191704652 0
+50C:\Users\Omar\Desktop\omar\dist\icons.42ed9afd.svg132605458101992853 0
 50C:\Users\Omar\Desktop\omar\dist\icons.5584ca8f.svg132604421907162710 0
 49C:\Users\Omar\Desktop\omar\dist\logo.5e527642.png132604421907182648 0
 49C:\Users\Omar\Desktop\omar\dist\logo.5ec39d94.png132604421907202594 0
 49C:\Users\Omar\Desktop\omar\dist\logo.7aa8e7db.png132604421907222535 0
 49C:\Users\Omar\Desktop\omar\dist\main.0cf31598.css132604421907232513 0
 53C:\Users\Omar\Desktop\omar\dist\main.0cf31598.css.map132604421907242478 0
-49C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css132605379191704652 0
+49C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css132605458102002786 0
 53C:\Users\Omar\Desktop\omar\dist\main.cdb8d068.css.map132604421907252448 0
