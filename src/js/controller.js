@@ -1,6 +1,7 @@
 import icons from 'url:../img/icons.svg';
 import * as model from './model.js'
-import recpieView from './views/recipeView.js'
+import recipeView from './views/recipeView.js';
+import recpieView from './views/recipeView.js';
 
 const recipeContainer = document.querySelector('.recipe');
 
@@ -24,6 +25,7 @@ const showRecpie = async function () {
   }
   catch (err) {
     console.log(err)
+    recipeView.renderError()
   }
 };
 
@@ -32,6 +34,9 @@ const init = function () {
 }
 
 init();
+
+
+
 // ['hashchange','load'].forEach(function(ev){
 // addEventListener(ev,showRecpie)
 

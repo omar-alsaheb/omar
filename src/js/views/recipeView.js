@@ -3,6 +3,8 @@ class RecipeView {
 
   #parentElement = document.querySelector('.recipe');
   #data;
+  #errorMessage = "We don't find that recpie";
+  #successMessage = ":)";
   render(data) {
     this.#data = data;
     const markup = this.#generateMarkup();
@@ -16,11 +18,44 @@ class RecipeView {
 
   }
 
-  addHandlerRender(handler){
+  addHandlerRender(handler) {
 
     ['hashchange', 'load'].forEach(ev => addEventListener(ev, handler));
 
   }
+
+  renderError(message = this.#errorMessage) {
+    const markup = `
+         <div class="error">
+            <div>
+              <svg>
+                <use href="${icons}#icon-alert-triangle"></use>
+              </svg>
+            </div>
+            <p>${message}</p>
+          </div>
+        `;
+    this.#clear();
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
+  }
+
+  renderSuccess(message = this.#successMessage) {
+    const markup = `
+
+    <div class="message">
+    <div>
+      <svg>
+        <use href="${icons}#icon-smile"></use>
+      </svg>
+    </div>
+    <p>${message}</p>
+  </div>
+        `;
+    this.#clear();
+    this.#parentElement.insertAdjacentHTML('afterbegin', markup);
+  }
+
+
   #generateMarkup() {
     return `
     <figure class="recipe__fig">
