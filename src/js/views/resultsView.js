@@ -2,6 +2,8 @@ import View from "./View";
 import icons from 'url:../../img/icons.svg';
 class ResultsView extends View {
     _parentElement = document.querySelector('.results');
+    _errorMessage = "We don't find that recpie :(";
+    _successMessage = ":)";
     _generateMarkup() {
         // console.log(this._data)
     
