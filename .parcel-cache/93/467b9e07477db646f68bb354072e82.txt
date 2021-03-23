@@ -24,7 +24,7 @@
 49C:\Users\Omar\Desktop\omar\node_modules\pn\net.js132609149115687627 0
 73C:\Users\Omar\Desktop\omar\node_modules\es-abstract\2015\IteratorClose.js132609149099456810 0
 44C:\Users\Omar\Desktop\omar\package-lock.json132609149126258308 0
-31C:\Users\Omar\Desktop\omar\dist132609185756792015 1
+31C:\Users\Omar\Desktop\omar\dist132609813593965042 1
 69C:\Users\Omar\Desktop\omar\node_modules\@parcel\utils\lib\throttle.js132609149083388263 0
 62C:\Users\Omar\Desktop\omar\node_modules\postcss-modules-values132609149117167501 1
 55C:\Users\Omar\Desktop\omar\node_modules\w3c-hr-time\lib132609149125795783 1
@@ -386,7 +386,7 @@
 48C:\Users\Omar\Desktop\omar\src\sass\_upload.scss132609149126328122 0
 65C:\Users\Omar\Desktop\omar\node_modules\hash.js\lib\hash\sha\1.js132609149104440633 0
 65C:\Users\Omar\Desktop\omar\node_modules\delayed-stream\.npmignore132609149098157187 0
-47C:\Users\Omar\Desktop\omar\src\js\controller.js132609185755521746 0
+47C:\Users\Omar\Desktop\omar\src\js\controller.js132609813592673436 0
 75C:\Users\Omar\Desktop\omar\node_modules\unset-value\node_modules\has-values132609149125227306 1
 65C:\Users\Omar\Desktop\omar\node_modules\lodash\_basePropertyOf.js132609149110040646 0
 58C:\Users\Omar\Desktop\omar\node_modules\xtend\immutable.js132609149126228391 0
@@ -443,7 +443,7 @@
 74C:\Users\Omar\Desktop\omar\node_modules\string.prototype.trimstart\auto.js132609149123481703 0
 67C:\Users\Omar\Desktop\omar\node_modules\cssnano-util-get-match\dist132609149096838638 1
 61C:\Users\Omar\Desktop\omar\node_modules\whatwg-url\lib\URL.js132609149125927814 0
-57C:\Users\Omar\Desktop\omar\src\js\views\paginationView.js132609189547744300 0
+57C:\Users\Omar\Desktop\omar\src\js\views\paginationView.js132609807624418797 0
 113C:\Users\Omar\Desktop\omar\node_modules\regenerate-unicode-properties\Script_Extensions\Nyiakeng_Puachue_Hmong.js132609149120795757 0
 67C:\Users\Omar\Desktop\omar\node_modules\js-yaml\dist\js-yaml.min.js132609149107650902 0
 86C:\Users\Omar\Desktop\omar\node_modules\resolve\test\resolver\symlinked\_\node_modules132609149121738304 1
@@ -11401,7 +11401,7 @@
 85C:\Users\Omar\Desktop\omar\node_modules\babel-plugin-dynamic-import-node\lib\utils.js132609149085396524 0
 66C:\Users\Omar\Desktop\omar\node_modules\command-exists\.travis.yml132609149089525199 0
 62C:\Users\Omar\Desktop\omar\node_modules\extglob\lib\parsers.js132609149103239484 0
-49C:\Users\Omar\Desktop\omar\dist\logo.6b3c6ef5.png132609185756672312 0
+49C:\Users\Omar\Desktop\omar\dist\logo.6b3c6ef5.png132609813593845358 0
 105C:\Users\Omar\Desktop\omar\node_modules\@parcel\transformer-css\node_modules\postcss-value-parser\LICENSE132609149082345942 0
 63C:\Users\Omar\Desktop\omar\node_modules\extend-shallow\index.js132609149103162237 0
 93C:\Users\Omar\Desktop\omar\node_modules\@parcel\runtime-js\src\loaders\browser\html-loader.js132609149081827436 0
@@ -16069,7 +16069,7 @@
 74C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-htmlnano\LICENSE132609149081039550 0
 70C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-data-url\src132609149081039550 1
 69C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-cssnano\lib132609149081009632 1
-53C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css.map132609185756692267 0
+53C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css.map132609813593875282 0
 89C:\Users\Omar\Desktop\omar\node_modules\@parcel\optimizer-cssnano\lib\CSSNanoOptimizer.js132609149081009632 0
 74C:\Users\Omar\Desktop\omar\node_modules\@parcel\node-resolver-core\LICENSE132609149080830111 0
 79C:\Users\Omar\Desktop\omar\node_modules\@parcel\node-resolver-core\package.json132609149080999649 0
@@ -16323,7 +16323,7 @@
 80C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.stat\out\adapters\fs.spec.js132609149079514489 0
 72C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\package.json132609149079424727 0
 83C:\Users\Omar\Desktop\omar\node_modules\@babel\plugin-transform-arrow-functions\lib132609149077477540 1
-42C:\Users\Omar\Desktop\omar\dist\index.html132609185756672312 0
+42C:\Users\Omar\Desktop\omar\dist\index.html132609813593845358 0
 69C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\README.md132609149079285101 0
 73C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\tsconfig.json132609149079484566 0
 80C:\Users\Omar\Desktop\omar\node_modules\@nodelib\fs.scandir\tsconfig.tsbuildinfo132609149079484566 0
@@ -17060,18 +17060,18 @@
 54C:\Users\Omar\Desktop\omar\node_modules\.bin\uncss.ps1132609149075747062 0
 54C:\Users\Omar\Desktop\omar\dist\controller.1174478e.js132609149075203429 0
 54C:\Users\Omar\Desktop\omar\dist\controller.2e0f76c7.js132609149075213410 0
-54C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js132609185756772047 0
-58C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js.map132609185756792015 0
+54C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js132609813593945092 0
+58C:\Users\Omar\Desktop\omar\dist\controller.2fa94652.js.map132609813593955062 0
 58C:\Users\Omar\Desktop\omar\dist\controller.a51b9390.js.map132609149075223386 0
 52C:\Users\Omar\Desktop\omar\dist\favicon.639e26ed.png132609149075233353 0
-52C:\Users\Omar\Desktop\omar\dist\favicon.7f4056aa.png132609185756672312 0
+52C:\Users\Omar\Desktop\omar\dist\favicon.7f4056aa.png132609813593845358 0
 50C:\Users\Omar\Desktop\omar\dist\icons.295ab907.svg132609149075243331 0
-50C:\Users\Omar\Desktop\omar\dist\icons.42ed9afd.svg132609185756662347 0
+50C:\Users\Omar\Desktop\omar\dist\icons.42ed9afd.svg132609813593845358 0
 50C:\Users\Omar\Desktop\omar\dist\icons.5584ca8f.svg132609149075253301 0
 49C:\Users\Omar\Desktop\omar\dist\logo.5e527642.png132609149075263271 0
 49C:\Users\Omar\Desktop\omar\dist\logo.5ec39d94.png132609149075273250 0
 49C:\Users\Omar\Desktop\omar\dist\logo.7aa8e7db.png132609149075293193 0
 49C:\Users\Omar\Desktop\omar\dist\main.0cf31598.css132609149075293193 0
 53C:\Users\Omar\Desktop\omar\dist\main.0cf31598.css.map132609149075303167 0
-49C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css132609185756672312 0
+49C:\Users\Omar\Desktop\omar\dist\main.95cb868a.css132609813593855342 0
 53C:\Users\Omar\Desktop\omar\dist\main.cdb8d068.css.map132609149075313142 0

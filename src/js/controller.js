@@ -4,6 +4,7 @@ import recipeView from './views/recipeView.js';
 import recpieView from './views/recipeView.js';
 import resultsView from './views/resultsView.js';
 import searchView from './views/searchView.js';
+import paginationView from './views/paginationView.js';
 
 
 
@@ -42,7 +43,8 @@ const controlerSearchResults = async function () {
     await model.loadSearchResults(query)
     // console.log(model.state.search.results);
     // resultsView.render(model.state.search.results);
-    resultsView.render(model.getSearchResultPage());
+    resultsView.render(model.getSearchResultPage(1));
+    paginationView.render(model.state.search)
 
   }
   catch (err) {
@@ -52,9 +54,15 @@ const controlerSearchResults = async function () {
 
 }
 
+const controlPagination = function(goToPage){
+  resultsView.render(model.getSearchResultPage(goToPage));
+ 
+  paginationView.render(model.state.search)
+}
 const init = function () {
   recpieView.addHandlerRender(showRecpie);
   searchView.addHandlerSearch(controlerSearchResults)
+  paginationView.addHandlerClick(controlPagination);
 }
 
 init();
